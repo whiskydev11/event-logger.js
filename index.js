@@ -91,8 +91,6 @@ checked = true
 return checked
 }
 
-  //checkLogByValue yapılacak değeri içeren keylerin idsini atacak
-
 getLogIdByValue(data) {
 
 let checkValue
